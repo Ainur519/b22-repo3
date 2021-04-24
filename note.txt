@@ -1,0 +1,3 @@
+We just published our local GIT repo to 
+remote GitHub.com repostory 
+Few thing happened
